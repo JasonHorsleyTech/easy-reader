@@ -1,0 +1,18 @@
+{
+    "book": {
+        "isbn10": false,
+        "author": false,
+        "title": false
+    },
+    "chapter": {
+        "ident": false,
+        "name": false
+    },
+    "characters": [
+    ],
+    "groups": [
+    ],
+    "text": [
+    ]
+}
+
